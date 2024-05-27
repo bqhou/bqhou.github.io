@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31fecf0f.css",
+    "main.js": "/static/js/main.15d9adb5.js",
+    "static/media/video-game.png": "/static/media/video-game.f094ba18f85fc34494b1.png",
+    "static/media/listening.png": "/static/media/listening.adc35e1ca58a9f916b2d.png",
+    "static/media/video-calling.png": "/static/media/video-calling.4b0384f63a8691172654.png",
+    "static/media/photo-editing.png": "/static/media/photo-editing.6b1e7d897c010afb920b.png",
+    "static/media/meta.png": "/static/media/meta.132c932681b90f7d6a12.png",
+    "static/media/news.png": "/static/media/news.e051958aadceb1a2b0d2.png",
+    "static/media/cyber-monday.png": "/static/media/cyber-monday.64d58a7df4477c3cb40a.png",
+    "static/media/coding.png": "/static/media/coding.0a594333a5aa7dd64e41.png",
+    "static/media/google.png": "/static/media/google.03f0638c5ec9c1062266.png",
+    "static/media/github.png": "/static/media/github.5994b25b696bbc93b5d8.png",
+    "static/media/restaurant-app.png": "/static/media/restaurant-app.7688aceff4d1f599b4fe.png",
+    "static/media/amazon.png": "/static/media/amazon.be46af4a14e4d72f15f4.png",
+    "static/media/edit.png": "/static/media/edit.286c87611e3e19088d94.png",
+    "static/media/infographic.png": "/static/media/infographic.f245cf805aeba5792954.png",
+    "static/media/linkedin.webp": "/static/media/linkedin.4c60124886e81a0d124d.webp",
+    "static/media/microsoft.svg": "/static/media/microsoft.1d87adb75dfe2b1eebe58538e492116a.svg",
+    "index.html": "/index.html",
+    "main.31fecf0f.css.map": "/static/css/main.31fecf0f.css.map",
+    "main.15d9adb5.js.map": "/static/js/main.15d9adb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31fecf0f.css",
+    "static/js/main.15d9adb5.js"
+  ]
+}
