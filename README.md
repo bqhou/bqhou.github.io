@@ -12,6 +12,10 @@ Please see the components below.
 - Contact
 - Footer
 
+## please check the demo web
+
+https://bqhou.github.io/
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
